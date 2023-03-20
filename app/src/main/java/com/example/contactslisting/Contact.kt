@@ -1,4 +1,4 @@
-package com.example.contactslisting.ui.theme
+package com.example.contactslisting
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
